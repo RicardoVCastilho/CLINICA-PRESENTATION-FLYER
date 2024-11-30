@@ -15,6 +15,20 @@ Este projeto tem como objetivo a criação de um panfleto digital interativo, ut
 - **Links Interativos**: Com acesso à demonstração do projeto, documentação e apresentação.
 - **Informações do Desenvolvedor**: Sinalização de autoria com link para o GitHub do desenvolvedor.
 
+## Design
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <div style="text-align: center;">
+        <strong>White Mode</strong><br>
+        <img src="./images/projeto-demo-white.jpeg" alt="White Mode" width="300"/>
+    </div>
+    <div style="text-align: center;">
+        <strong>Dark Mode</strong><br>
+        <img src="./images/projeto-demo-dark.jpeg" alt="Dark Mode" width="300"/>
+    </div>
+</div>
+
+
 ## Como Rodar o Projeto
 
 1. Clone o repositório:
